@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Transformator Monitoring</string>
+    <string name="title_activity_main">Transformator Monitoring</string>
+    <string name="package_name">com.scada.transformator</string>
+    <string name="custom_url_scheme">com.scada.transformator</string>
+</resources>

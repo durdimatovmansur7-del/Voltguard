@@ -1,0 +1,6 @@
+{
+  "name": "Transformatorlar Monitoringi",
+  "description": "Elektr tarmoqlarining barcha transformatorlari uchun tok kuchi, kuchlanish va moy haroratini real vaqtda kuzatish hamda tahlil qilish tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
